@@ -2,7 +2,7 @@
 
 <!-- Title -->
 
-<img src="public/assets/images/squritle.webp" alt="logo" width="200" height="auto" />
+<img src="public/assets/images/squirtle.webp" alt="logo" width="200" height="auto" />
 <h1>Squirdle</h1>
 
 <!-- Badges -->
